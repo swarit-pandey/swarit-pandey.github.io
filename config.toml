@@ -8,7 +8,7 @@ title = 'Swarit'
 
 [Params]
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
-  description = "Jane Doe's Portfolio!"
+  description = "Swarit's static webpage"
   [Params.Terminal]
   # Note: color scheme
   # Note: You can choose between
@@ -56,7 +56,7 @@ title = 'Swarit'
 
   description = """
 
-  Hi! This is Swarit, thanks for stopping by.
+  Hi! Thanks for stopping by.
   I am trying to tell my computer what it should be doing :D
     
   """
@@ -75,4 +75,5 @@ title = 'Swarit'
     ["[LINK] Spotify", "https://open.spotify.com/user/cl1141tr26uum12kp0clzlbg8"],
     ["[LINK] LinkedIn", "https://www.linkedin.com/in/swarit-pandey/"], 
     ["[LINK] Xbox", "https://account.xbox.com/en-US/Profile?gamerTag=sprectza"],
+    ["[PROGRAMMING/ZIG] Hello Zig!", "zig.md"]
   ]
