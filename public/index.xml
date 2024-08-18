@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Swarit Pandey</title>
+        <link>http://localhost:1313/</link>
+        <description>Recent content on Swarit Pandey</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Swarit Pandey</copyright>
+        <lastBuildDate>Sun, 18 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>http://localhost:1313/about/</link>
+        <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/about/</guid>
+        <description>&lt;p&gt;I primarily work with computers as a generalist, tackling any interesting challenge
+or necessary requirement. Beyond my day job, I enjoy reading books, playing and
+watching football, and nerding out over movies and mathematics.&lt;/p&gt;
+&lt;p&gt;Professionally, I&amp;rsquo;m currently involved in the security of cloud-native applications.
+This work encompasses gRPC and REST-based services, CLI applications, and kernel-level
+monitoring primitives such as eBPF. Most of my development is done using the Go programming language.
+But just in terms of programming languages, I try to try most of them, currenly I am liking Zig a lot,
+and I also have worked with Python, TypeScript, and Rust professionally.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>http://localhost:1313/archives/</link>
+        <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Hello World!</title>
+        <link>http://localhost:1313/p/hello-world/</link>
+        <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/hello-world/</guid>
+        <description>&lt;img src="http://localhost:1313/p/hello-world/sunrise.jpg" alt="Featured image of post Hello World!" /&gt;&lt;h2 id=&#34;what-is-this-about&#34;&gt;What is this about?
+&lt;/h2&gt;&lt;p&gt;Well, this is just me writing about things that I find interesting, and that is a
+lot of different things. From computers to philosophy, from books to movies, and
+from napping to jogging. Although most of the time my thoughts are very jumbled,
+writing about them actually helps in a lot of ways to organize things properly.&lt;/p&gt;
+&lt;h2 id=&#34;why-even-write&#34;&gt;Why even write?
+&lt;/h2&gt;&lt;p&gt;Writing in general brings a lot of clarity, and IMO it should just be done for the sake of it.
+There are a lot of events that take place in my day to day life, some are planned and some are
+extraordinary, this is like logging them, mostly its &lt;code&gt;info logs&lt;/code&gt; but sometimes also &lt;code&gt;debug logs&lt;/code&gt;.
+Also its fun sprinkling Haikus here and there.&lt;/p&gt;
+&lt;h2 id=&#34;how-often&#34;&gt;How often?
+&lt;/h2&gt;&lt;p&gt;I will try to write atleast once a month. But sometimes it simply depends on the &amp;ldquo;feels&amp;rdquo;. Afterall the
+whole point of this is to have a random logging mechanism with no locks ;)&lt;/p&gt;
+&lt;h2 id=&#34;reading-and-writing&#34;&gt;Reading and writing.
+&lt;/h2&gt;&lt;p&gt;I usually read a lot throughout the week, and this involves technical stuff, non-fiction, fiction, sci-fi,
+and anything in the wild, I figured that writing and reflecting back has a nice processing feeback loop. This
+specially has helped with understanding complex philosophical ideas, as I write I untangle.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Photo by &lt;a href=&#34;https://unsplash.com/@hoiko24?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash&#34;&gt;Heejing KIM&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/photos/landscape-photo-of-sunset-over-body-of-water-TqaFGqxiCQo?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash&#34;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Links</title>
+        <link>http://localhost:1313/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/links/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>http://localhost:1313/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

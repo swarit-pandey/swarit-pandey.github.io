@@ -1,4 +1,2 @@
-github.com/weastur/hugo-texify2 v0.2.0 h1:wzaUEeICOfWPxZFaOJ+RSOvMC/XGOEwzyazfPi58h1Q=
-github.com/weastur/hugo-texify2 v0.2.0/go.mod h1:WkwA8V8XHPTvlVYIqBvvIIm4YHhYu5dCiOBUbaq5/98=
-github.com/yukuro/hugo-theme-shell v0.1.5 h1:nsLWN3X5DYralwUHunSNAZTsXUwmK0buRyD9O1ViOs8=
-github.com/yukuro/hugo-theme-shell v0.1.5/go.mod h1:ke0Gm8MBCFlTdVQD1oIBWT142EQyS4ljcWHk+ylDi8o=
+github.com/CaiJimmy/hugo-theme-stack/v3 v3.26.0 h1:kLZSTvo+E3S2YWw59DjXWtKLNbw3JaL7Z+VAjcegqa0=
+github.com/CaiJimmy/hugo-theme-stack/v3 v3.26.0/go.mod h1:IPmCXiIxlFSLFYS0tOmYP6ySLviyeNVSabyvSuaxD+I=
