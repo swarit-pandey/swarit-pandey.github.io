@@ -13,14 +13,22 @@
         <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/about/</guid>
-        <description>&lt;p&gt;I primarily work with computers as a generalist, tackling any interesting challenge
-or necessary requirement. Beyond my day job, I enjoy reading books, playing and
-watching football, and nerding out over movies and mathematics.&lt;/p&gt;
-&lt;p&gt;Professionally, I&amp;rsquo;m currently involved in the security of cloud-native applications.
-This work encompasses gRPC and REST-based services, CLI applications, and kernel-level
-monitoring primitives such as eBPF. Most of my development is done using the Go programming language.
-But just in terms of programming languages, I try to try most of them, currenly I am liking Zig a lot,
-and I also have worked with Python, TypeScript, and Rust professionally.&lt;/p&gt;
+        <description>&lt;p&gt;I primarily work with computers as a generalist, tackling any interesting challenge that comes my way. My professional focus is on cloud-native application security, where I:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Design and implement distributed systems&lt;/li&gt;
+&lt;li&gt;Work with gRPC and REST-based services&lt;/li&gt;
+&lt;li&gt;Develop CLI applications&lt;/li&gt;
+&lt;li&gt;Utilize kernel-level monitoring primitives like eBPF&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Most of my development is in Go, but I enjoy exploring different programming languages. I&amp;rsquo;ve worked professionally with Python, TypeScript, and Rust, and I&amp;rsquo;m currently excited about Zig.&lt;/p&gt;
+&lt;p&gt;Beyond technology, I&amp;rsquo;m an avid:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Book reader&lt;/li&gt;
+&lt;li&gt;Football enjoyer&lt;/li&gt;
+&lt;li&gt;Cinema enthusiast&lt;/li&gt;
+&lt;li&gt;Discrete maths nerd&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;My curiosity spans across various domains including computing, philosophy, and literature - there&amp;rsquo;s always something new to learn and explore.&lt;/p&gt;
 </description>
         </item>
         <item>

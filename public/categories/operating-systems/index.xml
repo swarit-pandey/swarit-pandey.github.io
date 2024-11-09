@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Software on Swarit Pandey</title>
-        <link>http://localhost:1313/tags/software/</link>
-        <description>Recent content in Software on Swarit Pandey</description>
+        <title>Operating Systems on Swarit Pandey</title>
+        <link>http://localhost:1313/categories/operating-systems/</link>
+        <description>Recent content in Operating Systems on Swarit Pandey</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Swarit Pandey</copyright>
-        <lastBuildDate>Fri, 23 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/software/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 23 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/operating-systems/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Memory 101: The Main Memory and OS</title>
         <link>http://localhost:1313/p/memory-101-the-main-memory-and-os/</link>
         <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>

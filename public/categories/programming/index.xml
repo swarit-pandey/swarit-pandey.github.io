@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Programming on Swarit Pandey</title>
+        <link>http://localhost:1313/categories/programming/</link>
+        <description>Recent content in Programming on Swarit Pandey</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Swarit Pandey</copyright>
+        <lastBuildDate>Fri, 23 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/programming/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Memory Allocators</title>
+        <link>http://localhost:1313/p/memory-allocators/</link>
+        <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/memory-allocators/</guid>
+        <description>&lt;h2 id=&#34;memory-allocators&#34;&gt;Memory Allocators
+&lt;/h2&gt;&lt;p&gt;This blog is about understanding the memory allocators and how do we manage memory
+with help of different allocators, for concrete examples we will use Zig, since it
+supports for allocators (custom allocators) out of the box.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

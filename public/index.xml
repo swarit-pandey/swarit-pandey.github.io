@@ -13,14 +13,36 @@
         <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/about/</guid>
-        <description>&lt;p&gt;I primarily work with computers as a generalist, tackling any interesting challenge
-or necessary requirement. Beyond my day job, I enjoy reading books, playing and
-watching football, and nerding out over movies and mathematics.&lt;/p&gt;
-&lt;p&gt;Professionally, I&amp;rsquo;m currently involved in the security of cloud-native applications.
-This work encompasses gRPC and REST-based services, CLI applications, and kernel-level
-monitoring primitives such as eBPF. Most of my development is done using the Go programming language.
-But just in terms of programming languages, I try to try most of them, currenly I am liking Zig a lot,
-and I also have worked with Python, TypeScript, and Rust professionally.&lt;/p&gt;
+        <description>&lt;p&gt;I work with computers, primarily focusing on cloud-native environments.
+My day-to-day involves building distributed systems, working with eBPF based systems,
+writing services in Go, and staring at monitor reading same logs again and again :)
+While Go is my main language, I enjoy exploring others - recently been tinkering
+with Zig and have professional experience with Python, TypeScript, and Rust.&lt;/p&gt;
+&lt;p&gt;What I enjoy most about technology is understanding how things work under the hood.
+This curiosity extends beyond computing - I spend a lot of time reading about various
+topics from philosophy to mathematics (specially discrete maths and theoreticalCS), watching football (keen eye on tactics),
+and diving into movies. There&amp;rsquo;s always something interesting to learn, regardless of the domain.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Overall when I am not working, I can yap about&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Parsers and &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Formal_language&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;formal language theory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Real Madrid&amp;rsquo;s and Manchester United&amp;rsquo;s current season&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Pigeonhole_principle&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Pigeonhole Principle&lt;/a&gt; (and its connections with combinatorics)&lt;/li&gt;
+&lt;li&gt;Vim&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Effective_accelerationism&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;e/acc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Game_theory&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Game Theory&lt;/a&gt; and &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Mechanism_design&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Mechanism design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Movies by &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/David_Lynch#Filmography&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;David Lynch&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/David_Fincher#Filmography&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;David Fincher&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Yorgos_Lanthimos#Filmography&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Yorgos Lanthimos&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Ari_Aster#Filmography&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Ari Aster&lt;/a&gt;, and &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Christopher_Nolan_filmography&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Nolan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         </item>
         <item>
