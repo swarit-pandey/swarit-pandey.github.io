@@ -13,22 +13,36 @@
         <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/about/</guid>
-        <description>&lt;p&gt;I primarily work with computers as a generalist, tackling any interesting challenge that comes my way. My professional focus is on cloud-native application security, where I:&lt;/p&gt;
+        <description>&lt;p&gt;I work with computers, primarily focusing on cloud-native environments.
+My day-to-day involves building distributed systems, working with eBPF based systems,
+writing services in Go, and staring at monitor reading same logs again and again :)
+While Go is my main language, I enjoy exploring others - recently been tinkering
+with Zig and have professional experience with Python, TypeScript, and Rust.&lt;/p&gt;
+&lt;p&gt;What I enjoy most about technology is understanding how things work under the hood.
+This curiosity extends beyond computing - I spend a lot of time reading about various
+topics from philosophy to mathematics (specially discrete maths and theoreticalCS), watching football (keen eye on tactics),
+and diving into movies. There&amp;rsquo;s always something interesting to learn, regardless of the domain.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Overall when I am not working, I can yap about&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Design and implement distributed systems&lt;/li&gt;
-&lt;li&gt;Work with gRPC and REST-based services&lt;/li&gt;
-&lt;li&gt;Develop CLI applications&lt;/li&gt;
-&lt;li&gt;Utilize kernel-level monitoring primitives like eBPF&lt;/li&gt;
+&lt;li&gt;Parsers and &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Formal_language&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;formal language theory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Real Madrid&amp;rsquo;s and Manchester United&amp;rsquo;s current season&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Pigeonhole_principle&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Pigeonhole Principle&lt;/a&gt; (and its connections with combinatorics)&lt;/li&gt;
+&lt;li&gt;Vim&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Effective_accelerationism&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;e/acc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Game_theory&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Game Theory&lt;/a&gt; and &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Mechanism_design&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Mechanism design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Movies by &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/David_Lynch#Filmography&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;David Lynch&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/David_Fincher#Filmography&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;David Fincher&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Yorgos_Lanthimos#Filmography&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Yorgos Lanthimos&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Ari_Aster#Filmography&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Ari Aster&lt;/a&gt;, and &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Christopher_Nolan_filmography&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Nolan&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Most of my development is in Go, but I enjoy exploring different programming languages. I&amp;rsquo;ve worked professionally with Python, TypeScript, and Rust, and I&amp;rsquo;m currently excited about Zig.&lt;/p&gt;
-&lt;p&gt;Beyond technology, I&amp;rsquo;m an avid:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Book reader&lt;/li&gt;
-&lt;li&gt;Football enjoyer&lt;/li&gt;
-&lt;li&gt;Cinema enthusiast&lt;/li&gt;
-&lt;li&gt;Discrete maths nerd&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;My curiosity spans across various domains including computing, philosophy, and literature - there&amp;rsquo;s always something new to learn and explore.&lt;/p&gt;
 </description>
         </item>
         <item>
